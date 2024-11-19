@@ -38,6 +38,6 @@ Ensure the dataset is placed in the directory `/kaggle/input/deception-opinion/`
 Clone this repository and install the required libraries:
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/EbadShabbir/Hotel_Review>
 cd <repository-directory>
 pip install -r requirements.txt
